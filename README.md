@@ -1,6 +1,6 @@
 # Polygon ID API
 
-This is a back end that allows developers to easily consume Polygon ID's services  through easily accessible API endpoints
+This is a back end that allows developers to easily consume Polygon ID's services  through easily accessible API endpoints for the Udoc schema
 ---
 
 ## Prerequisites
