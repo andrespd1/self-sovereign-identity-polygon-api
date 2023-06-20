@@ -5,6 +5,7 @@
 This is a NodeJS using Express, Typescript and Solidity project that implements an API that allows users to connect with PolygonID technology, developed by https://polygon.technology/polygon-id, which provides identity infrastructure for web3.0 or dApps. This is an easy and updated way to generate claims and provide self-sovereign identity as an alternative for the traditional user/password login apps are used to.
 
 This project was developed with a partner as a result of a thesis and research project, for knowing the possible usage cases and how easy is to implement this new technologies that are meant to be used in a closer future. We worked in this project with Bancolombia, which is the biggest bank in Colombia. Studying if it could be an alternative of usage, in order to provide security to their clients.
+
 ---
 
 
